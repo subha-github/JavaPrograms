@@ -1,6 +1,6 @@
-## Create a build scan
+## Java Programs for Interviews
 
 Follow these simple steps to create a build:
 
 1. Clone this project
-2. Run `./gradlew clean build`
+2. Run `./gradlew clean test`
